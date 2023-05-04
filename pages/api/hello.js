@@ -77,103 +77,103 @@ export default function handler(req, res) {
       },
       {
         name: "Benin",
-        flag: "https://rapidapi-countries.vercel.app/emojis/svg/.svg",
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e7-1f1ef.svg",
       },
       {
         name: "Bhutan",
-        flag: "https://rapidapi-countries.vercel.app/emojis/svg/.svg",
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e7-1f1f9.svg",
       },
       {
         name: "Bolivia",
-        flag: "https://rapidapi-countries.vercel.app/emojis/svg/.svg",
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e7-1f1f4.svg",
       },
       {
         name: "Bosnia and Herzegovina",
-        flag: "https://rapidapi-countries.vercel.app/emojis/svg/.svg",
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e7-1f1e6.svg",
       },
       {
         name: "Botswana",
-        flag: "https://rapidapi-countries.vercel.app/emojis/svg/.svg",
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e7-1f1fc.svg",
       },
       {
         name: "Brazil",
-        flag: "https://rapidapi-countries.vercel.app/emojis/svg/.svg",
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e7-1f1f7..svg",
       },
       {
         name: "Brunei",
-        flag: "https://rapidapi-countries.vercel.app/emojis/svg/.svg",
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e7-1f1f3.svg",
       },
       {
         name: "Bulgaria",
-        flag: "https://rapidapi-countries.vercel.app/emojis/svg/.svg",
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e7-1f1ec.svg",
       },
       {
         name: "Burkina Faso",
-        flag: "https://rapidapi-countries.vercel.app/emojis/svg/.svg",
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e7-1f1eb.svg",
       },
       {
         name: "Burundi",
-        flag: "https://rapidapi-countries.vercel.app/emojis/svg/.svg",
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e7-1f1ee.svg",
       },
       {
         name: "Cabo Verde",
-        flag: "https://rapidapi-countries.vercel.app/emojis/svg/.svg",
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e8-1f1fb.svg",
       },
       {
         name: "Cambodia",
-        flag: "https://rapidapi-countries.vercel.app/emojis/svg/.svg",
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f0-1f1ed.svg",
       },
       {
         name: "Cameroon",
-        flag: "https://rapidapi-countries.vercel.app/emojis/svg/.svg",
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e8-1f1f2.svg",
       },
       {
         name: "Canada",
-        flag: "https://rapidapi-countries.vercel.app/emojis/svg/.svg",
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e8-1f1e6.svg",
       },
       {
         name: "Central African Republic (CAR)",
-        flag: "https://rapidapi-countries.vercel.app/emojis/svg/.svg",
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e8-1f1eb.svg",
       },
       {
         name: "Chad",
-        flag: "https://rapidapi-countries.vercel.app/emojis/svg/.svg",
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f9-1f1e9.svg",
       },
       {
         name: "Chile",
-        flag: "https://rapidapi-countries.vercel.app/emojis/svg/.svg",
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e8-1f1f1.svg",
       },
       {
         name: "China",
-        flag: "https://rapidapi-countries.vercel.app/emojis/svg/.svg",
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e8-1f1f3.svg",
       },
       {
         name: "Colombia",
-        flag: "https://rapidapi-countries.vercel.app/emojis/svg/.svg",
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e8-1f1f4.svg",
       },
       {
         name: "Comoros",
-        flag: "https://rapidapi-countries.vercel.app/emojis/svg/.svg",
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f0-1f1f2.svg",
       },
       {
         name: "Democratic Republic of the Congo",
-        flag: "https://rapidapi-countries.vercel.app/emojis/svg/.svg",
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e8-1f1e9.svg",
       },
       {
         name: "Republic of the Congo",
-        flag: "https://rapidapi-countries.vercel.app/emojis/svg/.svg",
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e8-1f1ec.svg",
       },
       {
         name: "Costa Rica",
-        flag: "https://rapidapi-countries.vercel.app/emojis/svg/.svg",
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e8-1f1f7.svg",
       },
       {
         name: "Cote d'Ivoire",
-        flag: "https://rapidapi-countries.vercel.app/emojis/svg/.svg",
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e8-1f1ee.svg",
       },
       {
         name: "Croatia",
-        flag: "https://rapidapi-countries.vercel.app/emojis/svg/.svg",
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1ed-1f1f7.svg",
       },
       {
         name: "Cuba",
