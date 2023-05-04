@@ -5,7 +5,7 @@ export default function handler(req, res) {
     .status(200)
     .json({
       name: [
-        { name: "Afghanistan", flag: "" },
+        { name: "Afghanistan", flag: "/emojis/png/1f1e6-1f1eb.png" },
         { name: "Albania", flag: "" },
         { name: "Algeria", flag: "" },
         { name: "Andorra", flag: "" },
