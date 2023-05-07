@@ -485,7 +485,7 @@ export default function handler(req, res) {
       },
       {
         name: "Nauru",
-        flag: null
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f3-1f1f7.svg",
       },
       {
         name: "Nepal",
@@ -553,7 +553,7 @@ export default function handler(req, res) {
       },
       {
         name: "Peru",
-        flag: null,
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f5-1f1ea.svg",
       },
       {
         name: "Philippines",
@@ -681,7 +681,7 @@ export default function handler(req, res) {
       },
       {
         name: "Switzerland",
-        flag: null,
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e8-1f1ed.svg",
       },
       {
         name: "Syria",
@@ -749,7 +749,7 @@ export default function handler(req, res) {
       },
       {
         name: "United Kingdom (UK)",
-        flag: null,
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1ec-1f1e7.svg",
       },
       {
         name: "United States of America (USA)",
