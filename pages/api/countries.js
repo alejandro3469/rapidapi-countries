@@ -479,163 +479,169 @@ export default function handler(req, res) {
         name: "Kosovo",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1fd-1f1f0.svg",
       },*/
+      // Korea (the Democratic People's Republic of)
+      // Korea (the Republic of)
       {
         alpha2: "KW",
         name: "Kuwait",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f0-1f1fc.svg",
       },
       {
-        alpha2: "",
+        alpha2: "KG",
         name: "Kyrgyzstan",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f0-1f1ec.svg",
       },
       {
-        alpha2: "",
+        alpha2: "LA",
         name: "Laos",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f1-1f1e6.svg",
       },
       {
-        alpha2: "",
+        alpha2: "LV",
         name: "Latvia",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f1-1f1fb.svg",
       },
       {
-        alpha2: "",
+        alpha2: "LB",
         name: "Lebanon",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f1-1f1e7.svg",
       },
       {
-        alpha2: "",
+        alpha2: "LS",
         name: "Lesotho",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f1-1f1f8.svg",
       },
       {
-        alpha2: "",
+        alpha2: "LR",
         name: "Liberia",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f1-1f1f7.svg",
       },
       {
-        alpha2: "",
+        alpha2: "LY",
         name: "Libya",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f1-1f1fe.svg",
       },
       {
-        alpha2: "",
+        alpha2: "LI",
         name: "Liechtenstein",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f1-1f1ee.svg",
       },
       {
-        alpha2: "",
+        alpha2: "LT",
         name: "Lithuania",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f1-1f1f9.svg",
       },
       {
-        alpha2: "",
+        alpha2: "LU",
         name: "Luxembourg",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f1-1f1fa.svg",
       },
+      // Macao
       {
-        alpha2: "",
+        alpha2: "MG",
         name: "Madagascar",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f2-1f1ec.svg",
       },
       {
-        alpha2: "",
+        alpha2: "MW",
         name: "Malawi",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f2-1f1fc.svg",
       },
       {
-        alpha2: "",
+        alpha2: "MY",
         name: "Malaysia",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f2-1f1fe.svg",
       },
       {
-        alpha2: "",
+        alpha2: "MV",
         name: "Maldives",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f2-1f1fb.svg",
       },
       {
-        alpha2: "",
+        alpha2: "ML",
         name: "Mali",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f2-1f1f1.svg",
       },
       {
-        alpha2: "",
+        alpha2: "MT",
         name: "Malta",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f2-1f1f9.svg",
       },
       {
-        alpha2: "",
+        alpha2: "MH",
         name: "Marshall Islands",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f2-1f1ed.svg",
       },
+      // Martinique
       {
-        alpha2: "",
+        alpha2: "MR",
         name: "Mauritania",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f2-1f1f7.svg",
       },
       {
-        alpha2: "",
+        alpha2: "MU",
         name: "Mauritius",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f2-1f1fa.svg",
       },
+      // Mayotte
       {
-        alpha2: "",
+        alpha2: "MX",
         name: "Mexico",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f2-1f1fd.svg",
       },
       {
-        alpha2: "",
+        alpha2: "FM",
         name: "Micronesia",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1eb-1f1f2.svg",
       },
       {
-        alpha2: "",
+        alpha2: "MD",
         name: "Moldova",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f2-1f1e9.svg",
       },
       {
-        alpha2: "",
+        alpha2: "MC",
         name: "Monaco",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f2-1f1e8.svg",
       },
       {
-        alpha2: "",
+        alpha2: "MN",
         name: "Mongolia",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f2-1f1f3.svg",
       },
       {
-        alpha2: "",
+        alpha2: "ME",
         name: "Montenegro",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f2-1f1ea.svg",
       },
+      // Montserrat
       {
-        alpha2: "",
+        alpha2: "MA",
         name: "Morocco",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f2-1f1e6.svg",
       },
       {
-        alpha2: "",
+        alpha2: "MZ",
         name: "Mozambique",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f2-1f1ff.svg",
       },
       {
-        alpha2: "",
+        alpha2: "MM",
         name: "Myanmar (formerly Burma)",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f2-1f1f2.svg",
       },
       {
-        alpha2: "",
+        alpha2: "NA",
         name: "Namibia",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f3-1f1e6.svg",
       },
       {
-        alpha2: "",
+        alpha2: "NR",
         name: "Nauru",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f3-1f1f7.svg",
       },
       {
-        alpha2: "",
+        alpha2: "NP",
         name: "Nepal",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f3-1f1f5.svg",
       },
