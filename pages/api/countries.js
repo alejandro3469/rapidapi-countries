@@ -18,7 +18,11 @@ export default function handler(req, res) {
         name: "Algeria",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e9-1f1ff.svg",
       },
-      // American Samoa
+      {
+        alpha2: "AS",
+        name: "American Samoa",
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e6-1f1f8.svg",
+      },
       {
         alpha2: "AD",
         name: "Andorra",
@@ -29,8 +33,16 @@ export default function handler(req, res) {
         name: "Angola",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e6-1f1f4.svg",
       },
-      // Anguilla
-      // Antarctica
+      {
+        alpha2: "AI",
+        name: "Anguilla",
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e6-1f1ee.svg",
+      },
+      {
+        alpha2: "AQ",
+        name: "Antarctica",
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e6-1f1f6.svg",
+      },
       {
         alpha2: "AG",
         name: "Antigua and Barbuda",
@@ -46,7 +58,7 @@ export default function handler(req, res) {
         name: "Armenia",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e6-1f1f2.svg",
       },
-      // Aruba
+      // Aruba 1f1e6-1f1fc AW
       {
         alpha2: "AU",
         name: "Australia",
@@ -745,7 +757,11 @@ export default function handler(req, res) {
         name: "Portugal",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f5-1f1f9.svg",
       },
-      // Puerto Rico
+      {
+        alpha2: "PR",
+        name: "Puerto Rico",
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f5-1f1f7.svg",
+      },
       {
         alpha2: "QA",
         name: "Qatar",
