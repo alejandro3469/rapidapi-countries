@@ -646,376 +646,396 @@ export default function handler(req, res) {
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f3-1f1f5.svg",
       },
       {
-        alpha2: "",
+        alpha2: "NL",
         name: "Netherlands",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f3-1f1f1.svg",
       },
+      // New Caledonia
       {
-        alpha2: "",
+        alpha2: "NZ",
         name: "New Zealand",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f3-1f1ff.svg",
       },
       {
-        alpha2: "",
+        alpha2: "NI",
         name: "Nicaragua",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f3-1f1ee.svg",
       },
       {
-        alpha2: "",
+        alpha2: "NE",
         name: "Niger",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f3-1f1ea.svg",
       },
       {
-        alpha2: "",
+        alpha2: "NG",
         name: "Nigeria",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f3-1f1ec.svg",
       },
+      // Niue
+      // Norfolk Island
       {
-        alpha2: "",
+        alpha2: "KP",
         name: "North Korea",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f0-1f1f5.svg",
       },
       {
-        alpha2: "",
+        alpha2: "MK",
         name: "North Macedonia (formerly Macedonia)",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f2-1f1f0.svg",
       },
+      // Northern Mariana Islands (the)
       {
-        alpha2: "",
+        alpha2: "NO",
         name: "Norway",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f3-1f1f4.svg",
       },
       {
-        alpha2: "",
+        alpha2: "OM",
         name: "Oman",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f4-1f1f2.svg",
       },
       {
-        alpha2: "",
+        alpha2: "PK",
         name: "Pakistan",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f5-1f1f0.svg",
       },
       {
-        alpha2: "",
+        alpha2: "PW",
         name: "Palau",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f5-1f1fc.svg",
       },
       {
-        alpha2: "",
+        alpha2: "PS",
         name: "Palestine",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f5-1f1f8.svg",
       },
       {
-        alpha2: "",
+        alpha2: "PA",
         name: "Panama",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f5-1f1e6.svg",
       },
       {
-        alpha2: "",
+        alpha2: "PG",
         name: "Papua New Guinea",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f5-1f1ec.svg",
       },
       {
-        alpha2: "",
+        alpha2: "PY",
         name: "Paraguay",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f5-1f1fe.svg",
       },
       {
-        alpha2: "",
+        alpha2: "PE",
         name: "Peru",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f5-1f1ea.svg",
       },
       {
-        alpha2: "",
+        alpha2: "PH",
         name: "Philippines",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f5-1f1ed.svg",
       },
+      // Pitcairn
       {
-        alpha2: "",
+        alpha2: "PL",
         name: "Poland",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f5-1f1f1.svg",
       },
       {
-        alpha2: "",
+        alpha2: "PT",
         name: "Portugal",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f5-1f1f9.svg",
       },
+      // Puerto Rico
       {
-        alpha2: "",
+        alpha2: "QA",
         name: "Qatar",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f6-1f1e6.svg",
       },
       {
-        alpha2: "",
+        alpha2: "RO",
         name: "Romania",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f7-1f1f4.svg",
       },
       {
-        alpha2: "",
+        alpha2: "RU",
         name: "Russia",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f7-1f1fa.svg",
       },
       {
-        alpha2: "",
+        alpha2: "RW",
         name: "Rwanda",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f7-1f1fc.svg",
       },
+      // Réunion
+      // Saint Barthélemy
+      // Saint Helena, Ascension and Tristan da Cunha
+      //
       {
-        alpha2: "",
+        alpha2: "KN",
         name: "Saint Kitts and Nevis",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f0-1f1f3.svg",
       },
       {
-        alpha2: "",
+        alpha2: "LC",
         name: "Saint Lucia",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f1-1f1e8.svg",
       },
+      // Saint Martin (French part)
+      // Saint Pierre and Miquelon
       {
-        alpha2: "",
+        alpha2: "VC",
         name: "Saint Vincent and the Grenadines",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1fb-1f1e8.svg",
       },
       {
-        alpha2: "",
+        alpha2: "WS",
         name: "Samoa",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1fc-1f1f8.svg",
       },
       {
-        alpha2: "",
+        alpha2: "SM",
         name: "San Marino",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f8-1f1f2.svg",
       },
       {
-        alpha2: "",
+        alpha2: "ST",
         name: "Sao Tome and Principe",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f8-1f1f9.svg",
       },
       {
-        alpha2: "",
+        alpha2: "SA",
         name: "Saudi Arabia",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f8-1f1e6.svg",
       },
       {
-        alpha2: "",
+        alpha2: "SN",
         name: "Senegal",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f8-1f1f3.svg",
       },
       {
-        alpha2: "",
+        alpha2: "RS",
         name: "Serbia",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f7-1f1f8.svg",
       },
       {
-        alpha2: "",
+        alpha2: "SC",
         name: "Seychelles",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f8-1f1e8.svg",
       },
       {
-        alpha2: "",
-        alpha2: "",
+        alpha2: "SL",
         name: "Sierra Leone",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f8-1f1f1.svg",
       },
       {
-        alpha2: "",
+        alpha2: "SG",
         name: "Singapore",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f8-1f1ec.svg",
       },
+      // Sint Maarten (Dutch part)
       {
-        alpha2: "",
+        alpha2: "SK",
         name: "Slovakia",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f8-1f1f0.svg",
       },
       {
-        alpha2: "",
+        alpha2: "SI",
         name: "Slovenia",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f8-1f1ee.svg",
       },
       {
-        alpha2: "",
+        alpha2: "SB",
         name: "Solomon Islands",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f8-1f1e7.svg",
       },
       {
-        alpha2: "",
+        alpha2: "SO",
         name: "Somalia",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f8-1f1f4.svg",
       },
       {
-        alpha2: "",
+        alpha2: "ZA",
         name: "South Africa",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1ff-1f1e6.svg",
       },
       {
-        alpha2: "",
+        alpha2: "KR",
         name: "South Korea",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f0-1f1f7.svg",
       },
+      // South Georgia and the South Sandwich Islands
       {
-        alpha2: "",
+        alpha2: "SS",
         name: "South Sudan",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f8-1f1f8.svg",
       },
       {
-        alpha2: "",
+        alpha2: "ES",
         name: "Spain",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1ea-1f1e6.svg",
       },
       {
-        alpha2: "",
+        alpha2: "LK",
         name: "Sri Lanka",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f1-1f1f0.svg",
       },
       {
-        alpha2: "",
+        alpha2: "SD",
         name: "Sudan",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f8-1f1e9.svg",
       },
       {
-        alpha2: "",
+        alpha2: "SR",
         name: "Suriname",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f8-1f1f7.svg",
       },
+      // Svalbard and Jan Mayen
       {
-        alpha2: "",
+        alpha2: "SE",
         name: "Sweden",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f8-1f1ea.svg",
       },
       {
-        alpha2: "",
+        alpha2: "CH",
         name: "Switzerland",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e8-1f1ed.svg",
       },
       {
-        alpha2: "",
+        alpha2: "SY",
         name: "Syria",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f8-1f1fe.svg",
       },
       {
-        alpha2: "",
+        alpha2: "TW",
         name: "Taiwan",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f9-1f1fc.svg",
       },
       {
-        alpha2: "",
+        alpha2: "TJ",
         name: "Tajikistan",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f9-1f1ef.svg",
       },
       {
-        alpha2: "",
+        alpha2: "TZ",
         name: "Tanzania",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f9-1f1ff.svg",
       },
       {
-        alpha2: "",
+        alpha2: "TH",
         name: "Thailand",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f9-1f1ed.svg",
       },
       {
-        alpha2: "",
+        alpha2: "TL",
         name: "Timor-Leste (formerly East Timor)",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f9-1f1f1.svg",
       },
       {
-        alpha2: "",
+        alpha2: "TG",
         name: "Togo",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f9-1f1ec.svg",
       },
+      // Tokelau
       {
-        alpha2: "",
+        alpha2: "TO",
         name: "Tonga",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f9-1f1f4.svg",
       },
       {
-        alpha2: "",
+        alpha2: "TT",
         name: "Trinidad and Tobago",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f9-1f1f9.svg",
       },
       {
-        alpha2: "",
+        alpha2: "TN",
         name: "Tunisia",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f9-1f1f3.svg",
       },
       {
-        alpha2: "",
+        alpha2: "TR",
         name: "Turkey",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f9-1f1f7.svg",
       },
       {
+        alpha2: "TM",
         name: "Turkmenistan",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f9-1f1f2.svg",
       },
       {
-        alpha2: "",
+        alpha2: "TV",
         name: "Tuvalu",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f9-1f1fb.svg",
       },
-      {alpha2: "",
+      {alpha2: "UG",
         name: "Uganda",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1fa-1f1ec.svg",
       },
       {
-        alpha2: "",
+        alpha2: "UA",
         name: "Ukraine",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1fa-1f1e6.svg",
       },
       {
-        alpha2: "",
+        alpha2: "AE",
         name: "United Arab Emirates (UAE)",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e6-1f1ea.svg",
       },
       {
-        alpha2: "",
+        alpha2: "GB",
         name: "United Kingdom (UK)",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1ec-1f1e7.svg",
       },
+      // United States Minor Outlying Islands (the)
       {
-        alpha2: "",
+        alpha2: "US",
         name: "United States of America (USA)",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1fa-1f1f2.svg",
       },
       {
-        alpha2: "",
+        alpha2: "UY",
         name: "Uruguay",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1fa-1f1fe.svg",
       },
       {
-        alpha2: "",
+        alpha2: "UZ",
         name: "Uzbekistan",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1fa-1f1ff.svg",
       },
       {
-        alpha2: "",
+        alpha2: "VU",
         name: "Vanuatu",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1fb-1f1fa.svg",
       },
       {
-        alpha2: "",
+        alpha2: "VA",
         name: "Vatican City (Holy See)",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1fb-1f1e6.svg",
       },
       {
-        alpha2: "",
+        alpha2: "VE",
         name: "Venezuela",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1fb-1f1ea.svg",
       },
       {
-        alpha2: "",
+        alpha2: "VN",
         name: "Vietnam",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1fb-1f1f3.svg",
       },
+      // Virgin Islands (British)
+      // Virgin Islands (U.S.)
+      // Wallis and Futuna
       {
-        alpha2: "",
+        alpha2: "YE",
         name: "Yemen",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1fe-1f1ea.svg",
       },
       {
-        alpha2: "",
+        alpha2: "ZM",
         name: "Zambia",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1ff-1f1f2.svg",
       },
       {
-        alpha2: "",
+        alpha2: "ZW",
         name: "Zimbabwe",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1ff-1f1fc.svg",
       },
