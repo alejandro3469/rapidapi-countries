@@ -138,7 +138,7 @@ export default function handler(req, res) {
       },
       {
         alpha2: "BO",
-        name: "Bolivia",
+        name: "Bolivia (Plurinational State of)",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e7-1f1f4.svg",
       },
       // Bonaire, Sint Eustatius and Saba 1f1e7-1f1f6 BQ
@@ -171,12 +171,12 @@ export default function handler(req, res) {
       // British Indian Ocean Territory 1f1ee-1f1f4 IO
       {
         alpha2: "IO",
-        name: "British Indian Ocean Territory",
+        name: "British Indian Ocean Territory (the)",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1ee-1f1f4.svg",
       },
       {
         alpha2: "BN",
-        name: "Brunei",
+        name: "Brunei Darussalam",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e7-1f1f3.svg",
       },
       {
@@ -217,12 +217,12 @@ export default function handler(req, res) {
       // Cayman Islands 1f1f0-1f1fe KY
       {
         alpha2: "KY",
-        name: "Cayman Islands",
+        name: "Cayman Islands (the)",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f0-1f1fe.svg",
       },
       {
         alpha2: "CF",
-        name: "Central African Republic (CAR)",
+        name: "Central African Republic (the)",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e8-1f1eb.svg",
       },
       {
@@ -249,7 +249,7 @@ export default function handler(req, res) {
       // Cocos (Keeling) Islands 1f1e8-1f1e8 CC
       {
         alpha2: "CC",
-        name: "Cocos (Keeling) Islands",
+        name: "Cocos (Keeling) Islands (the)",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e8-1f1e8.svg",
       },
       {
@@ -259,28 +259,29 @@ export default function handler(req, res) {
       },
       {
         alpha2: "KM",
-        name: "Comoros",
+        name: "Comoros (the)",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f0-1f1f2.svg",
       },
       {
         alpha2: "CD",
-        name: "Democratic Republic of the Congo",
+        name: "Congo (the Democratic Republic of the)",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e8-1f1e9.svg",
       },
       {
         alpha2: "CG",
-        name: "Republic of the Congo",
+        name: "Congo (the)",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e8-1f1ec.svg",
+      },
+      // Cook Islands (the) 1f1e8-1f1f0 CK
+      {
+        alpha2: "CK",
+        name: "Cook Islands (the)",
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e8-1f1f0.svg",
       },
       {
         alpha2: "CR",
         name: "Costa Rica",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e8-1f1f7.svg",
-      },
-      {
-        alpha2: "CI",
-        name: "Cote d'Ivoire",
-        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e8-1f1ee.svg",
       },
       {
         alpha2: "HR",
@@ -305,9 +306,14 @@ export default function handler(req, res) {
       },
       {
         alpha2: "CZ",
-        name: "Czech Republic",
+        name: "Czechia",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e8-1f1ff.svg",
       },
+      {
+        alpha2: "CI",
+        name: "Cote d'Ivoire",
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e8-1f1ee.svg",
+      }, 
       {
         alpha2: "DK",
         name: "Denmark",
@@ -325,7 +331,7 @@ export default function handler(req, res) {
       },
       {
         alpha2: "DO",
-        name: "Dominican Republic",
+        name: "Dominican Republic (the)",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e9-1f1f4.svg",
       },
       {
@@ -371,20 +377,20 @@ export default function handler(req, res) {
       // Falkland Islands 1f1eb-1f1f0 FK
       {
         alpha2: "FK",
-        name: "Falkland Islands",
+        name: "Falkland Islands (the) [Malvinas]",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1eb-1f1f0.svg",
       },
       // Faroe Islands 1f1eb-1f1f4 FO
       {
         alpha2: "FO",
-        name: "Faroe Islands",
+        name: "Faroe Islands (the)",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1eb-1f1f4.svg",
       },
       {
         alpha2: "FJ",
         name: "Fiji",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1eb-1f1ef..svg",
-      },
+      }, // startv here
       {
         alpha2: "FI",
         name: "Finland",
