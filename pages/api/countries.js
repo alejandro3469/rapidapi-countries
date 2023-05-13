@@ -1231,8 +1231,18 @@ export default function handler(req, res) {
         name: "Vietnam",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1fb-1f1f3.svg",
       },
-      // Virgin Islands (British)
-      // Virgin Islands (U.S.)
+      // Virgin Islands (British) 1f1fb-1f1ec VG
+      {
+        alpha2: "VG",
+        name: "Virgin Islands (British)",
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1fb-1f1ec.svg",
+      },
+      // Virgin Islands (U.S.) 1f1fb-1f1ee VI
+      {
+        alpha2: "VI",
+        name: "Virgin Islands (U.S.)",
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1fb-1f1ee.svg",
+      },
       // Wallis and Futuna 1f1fc-1f1eb WF
       {
         alpha2: "WF",
@@ -1262,4 +1272,3 @@ export default function handler(req, res) {
 // ----- THGINGS TO FIX
 // Saint martin/sint  maarten
 // Virgin Islands
-// Switzerland flag
