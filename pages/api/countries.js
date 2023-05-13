@@ -600,7 +600,17 @@ export default function handler(req, res) {
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1fd-1f1f0.svg",
       },*/
       // Korea (the Democratic People's Republic of)
+      {
+        alpha2: "KP",
+        name: "Korea (the Democratic People's Republic of)",
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f0-1f1f5.svg",
+      },
       // Korea (the Republic of)
+      {
+        alpha2: "KR",
+        name: "Korea (the Republic of)",
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f0-1f1f7.svg",
+      },
       {
         alpha2: "KW",
         name: "Kuwait",
@@ -829,11 +839,6 @@ export default function handler(req, res) {
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f3-1f1eb.svg",
       },
       {
-        alpha2: "KP",
-        name: "North Korea",
-        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f0-1f1f5.svg",
-      },
-      {
         alpha2: "MK",
         name: "North Macedonia (formerly Macedonia)",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f2-1f1f0.svg",
@@ -1052,11 +1057,6 @@ export default function handler(req, res) {
         name: "South Africa",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1ff-1f1e6.svg",
       },
-      {
-        alpha2: "KR",
-        name: "South Korea",
-        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f0-1f1f7.svg",
-      },
       // South Georgia and the South Sandwich Islands 1f1ec-1f1f8 GS
       {
         alpha2: "GS",
@@ -1261,6 +1261,5 @@ export default function handler(req, res) {
 
 // ----- THGINGS TO FIX
 // Saint martin/sint  maarten
-// Koreas
 // Virgin Islands
 // Switzerland flag
