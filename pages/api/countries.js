@@ -58,7 +58,6 @@ export default function handler(req, res) {
         name: "Armenia",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e6-1f1f2.svg",
       },
-      // Aruba 1f1e6-1f1fc AW
       {
         alpha2: "AW",
         name: "Aruba",
@@ -119,13 +118,11 @@ export default function handler(req, res) {
         name: "Benin",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e7-1f1ef.svg",
       },
-      // Bermuda 1f1e7-1f1f2 BM
       {
         alpha2: "BM",
         name: "Bermuda",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e7-1f1f2.svg",
       },
-      // Åland Islands 1f1e6-1f1fd AX
       {
         alpha2: "AX",
         name: "Åland Islands",
@@ -141,11 +138,11 @@ export default function handler(req, res) {
         name: "Bolivia (Plurinational State of)",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e7-1f1f4.svg",
       },
-      // Bonaire, Sint Eustatius and Saba 1f1e7-1f1f6 BQ
       {
         alpha2: "BQ",
         name: "Bonaire, Sint Eustatius and Saba",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e7-1f1f6.svg",
+        officialFlag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f3-1f1f1.svg",
       },
       {
         alpha2: "BA",
@@ -157,7 +154,6 @@ export default function handler(req, res) {
         name: "Botswana",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e7-1f1fc.svg",
       },
-      // Bouvet Island 1f1f8-1f1ef BV
       {
         alpha2: "BV",
         name: "Bouvet Island",
@@ -166,9 +162,8 @@ export default function handler(req, res) {
       {
         alpha2: "BR",
         name: "Brazil",
-        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e7-1f1f7..svg",
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e7-1f1f7.svg",
       },
-      // British Indian Ocean Territory 1f1ee-1f1f4 IO
       {
         alpha2: "IO",
         name: "British Indian Ocean Territory (the)",
@@ -214,7 +209,6 @@ export default function handler(req, res) {
         name: "Canada",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e8-1f1e6.svg",
       },
-      // Cayman Islands 1f1f0-1f1fe KY
       {
         alpha2: "KY",
         name: "Cayman Islands (the)",
@@ -240,13 +234,11 @@ export default function handler(req, res) {
         name: "China",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e8-1f1f3.svg",
       },
-      // Christmas Island 1f1e8-1f1fd CX
       {
         alpha2: "CX",
         name: "Christmas Island",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e8-1f1fd.svg",
       },
-      // Cocos (Keeling) Islands 1f1e8-1f1e8 CC
       {
         alpha2: "CC",
         name: "Cocos (Keeling) Islands (the)",
@@ -272,7 +264,6 @@ export default function handler(req, res) {
         name: "Congo (the)",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e8-1f1ec.svg",
       },
-      // Cook Islands (the) 1f1e8-1f1f0 CK
       {
         alpha2: "CK",
         name: "Cook Islands (the)",
@@ -293,7 +284,6 @@ export default function handler(req, res) {
         name: "Cuba",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e8-1f1fa.svg",
       },
-      // Curaçao 1f1e8-1f1fc CW
       {
         alpha2: "CW",
         name: "Curaçao",
@@ -374,13 +364,11 @@ export default function handler(req, res) {
         name: "Ethiopia",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1ea-1f1f9.svg",
       },
-      // Falkland Islands 1f1eb-1f1f0 FK
       {
         alpha2: "FK",
         name: "Falkland Islands (the) [Malvinas]",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1eb-1f1f0.svg",
       },
-      // Faroe Islands 1f1eb-1f1f4 FO
       {
         alpha2: "FO",
         name: "Faroe Islands (the)",
@@ -389,8 +377,8 @@ export default function handler(req, res) {
       {
         alpha2: "FJ",
         name: "Fiji",
-        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1eb-1f1ef..svg",
-      }, // start here 
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1eb-1f1ef.svg",
+      },
       {
         alpha2: "FI",
         name: "Finland",
@@ -405,6 +393,7 @@ export default function handler(req, res) {
         alpha2: "GF",
         name: "French Guiana",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1ec-1f1eb.svg",
+        officialFlag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1eb-1f1f7.svg"
       },
       {
         alpha2: "PF",
@@ -441,7 +430,6 @@ export default function handler(req, res) {
         name: "Ghana",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1ec-1f1ed.svg",
       },
-      // Gibraltar 1f1ec-1f1ee GI
       {
         alpha2: "GI",
         name: "Gibraltar",
@@ -466,6 +454,7 @@ export default function handler(req, res) {
         alpha2: "GP",
         name: "Guadeloupe",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1ec-1f1f5.svg",
+        officialFlag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1eb-1f1f7.svg"
       },
       {
         alpha2: "GU",
@@ -595,7 +584,7 @@ export default function handler(req, res) {
       {
         alpha2: "KZ",
         name: "Kazakhstan",
-        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f0-1f1ff..svg",
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f0-1f1ff.svg",
       },
       {
         alpha2: "KE",
@@ -721,6 +710,7 @@ export default function handler(req, res) {
         alpha2: "MQ",
         name: "Martinique",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f2-1f1f6.svg",
+        officialFlag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1eb-1f1f7.svg"
       },
       {
         alpha2: "MR",
@@ -736,6 +726,7 @@ export default function handler(req, res) {
         alpha2: "YT",
         name: "Mayotte",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1fe-1f1f9.svg",
+        officialFlag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1eb-1f1f7.svg"
       },
       {
         alpha2: "MX",
@@ -945,17 +936,20 @@ export default function handler(req, res) {
       {
         alpha2: "RE",
         name: "Réunion",
-        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f2-1f1eb.svg",
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f7-1f1ea.svg",
+        officialFlag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1eb-1f1f7.svg"
       },
       {
         alpha2: "BL",
         name: "Saint Barthélemy",
-        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e8-1f1f5.svg",
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1e7-1f1f1.svg",
+        officialFlag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1eb-1f1f7.svg"
       },
       {
         alpha2: "SH",
         name: "Saint Helena, Ascension and Tristan da Cunha",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f8-1f1ed.svg",
+        officialFlag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1ec-1f1e7.svg"
       },
       {
         alpha2: "KN",
@@ -967,11 +961,16 @@ export default function handler(req, res) {
         name: "Saint Lucia",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f1-1f1e8.svg",
       },
-      // Saint Martin (French part) MF***
+      {
+        alpha2: "MF",
+        name: "Saint Martin (French part)",
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1eb-1f1f7.svg",
+      },
       {
         alpha2: "PM",
         name: "Saint Pierre and Miquelon",
-        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f2-1f1eb.svg",
+        flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f5-1f1f2.svg",
+        officialFlag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1eb-1f1f7.svg"
       },
       {
         alpha2: "VC",
@@ -1053,7 +1052,6 @@ export default function handler(req, res) {
         name: "South Africa",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1ff-1f1e6.svg",
       },
-      // South Georgia and the South Sandwich Islands 1f1ec-1f1f8 GS
       {
         alpha2: "GS",
         name: "South Georgia and the South Sandwich Islands",
@@ -1192,6 +1190,7 @@ export default function handler(req, res) {
         alpha2: "GB",
         name: "United Kingdom of Great Britain and Northern Ireland (the)",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1ec-1f1e7.svg",
+        officialFlag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1ec-1f1e7.svg"
       },
       {
         alpha2: "UM",
@@ -1274,3 +1273,4 @@ export default function handler(req, res) {
 // NOTES
 // Remove everything after a parenthesis and a comma (maybe not) for short names 
 // Remove (the) for shortenned names
+// sain martin, and saint pierre, and reunion and saintpierre and miquelon have unnoficial flags
