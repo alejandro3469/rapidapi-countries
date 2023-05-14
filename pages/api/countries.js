@@ -876,11 +876,13 @@ export default function handler(req, res) {
         alpha2: "MX",
         name: "Mexico",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1f2-1f1fd.svg",
+        subdivisions: [],
       },
       {
         alpha2: "FM",
         name: "Micronesia (Federated States of)",
         flag: "https://rapidapi-countries.vercel.app/emojis/svg/1f1eb-1f1f2.svg",
+        subdivisions: [],
       },
       {
         alpha2: "MD",
