@@ -1266,10 +1266,6 @@ export default function handler(req, res) {
   });
 }
 
-
-// ----- THGINGS TO FIX
-// Saint martin/sint  maarten
-
 // NOTES
 // Remove everything after a parenthesis and a comma (maybe not) for short names 
 // Remove (the) for shortenned names
